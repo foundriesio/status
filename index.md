@@ -1,3 +1,1 @@
-# Status
-
-All systems are operational
+## All Systems Operational
