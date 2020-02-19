@@ -9,4 +9,5 @@ on our [Slack channel](https://join.slack.com/t/foundriesio/shared_invite/enQtNT
 
 ### Previous Outages:
 
+ * [2020-02-18 hub.foundries.io disruption](2020-02-18-hub-fio.md)
  * [2019-11-14 hub.foundries.io outage](2019-11-14-hub-fio)
