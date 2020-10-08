@@ -1,4 +1,7 @@
-## All Systems Operational
+## Some users are experiencing issues with the login service.
+* This is impacting logging in
+* Password reset 
+* Account creation
 
 This page tracks the system status of Foundries.io and logs of incidents as
 they are worked on. You can also get real-time updates of service outages
