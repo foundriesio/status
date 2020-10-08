@@ -1,7 +1,4 @@
-## Some users are experiencing issues with the login service.
-* This is impacting logging in
-* Password reset 
-* Account creation
+## All Systems Operational
 
 This page tracks the system status of Foundries.io and logs of incidents as
 they are worked on. You can also get real-time updates of service outages
@@ -17,5 +14,6 @@ on our [Slack channel](https://join.slack.com/t/foundriesio/shared_invite/enQtNT
 
 ### Previous Outages:
 
+ * [2020-10-08 hub.foundries.io disruption](outage/2020-10-08-login.md)
  * [2020-02-18 hub.foundries.io disruption](outage/2020-02-18-hub-fio)
  * [2019-11-14 hub.foundries.io outage](outage/2019-11-14-hub-fio)
