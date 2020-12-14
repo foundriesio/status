@@ -1,11 +1,8 @@
-## GCP outage
+## All Systems Operational
 
 This page tracks the system status of Foundries.io and logs of incidents as
 they are worked on. You can also get real-time updates of service outages
 on our [Slack channel](https://join.slack.com/t/foundriesio/shared_invite/enQtNTc5NDkxNTI5NTExLWQ1Yjc3NDA2MjI3NzA3YzkxYjEzNzlhZjQ0M2QxYTIzYmIzZjlmOThmZGU0NTk5MWEwZGIwMTU2YWE4N2I5NWQ).
-
-## Some systems are affected by GCP outage
-2020-12-14 12:05 UTC: access to storage buckets doesn't work
 
 ### Upcoming Events:
  &nbsp; No events
@@ -17,6 +14,7 @@ on our [Slack channel](https://join.slack.com/t/foundriesio/shared_invite/enQtNT
  * [2020-02-12 CI worker network maintenance](maintenance/2020-02-13-online-net)
 
 ### Previous Outages:
+ * [2020-12-14 foundries.io disruption](outage/2020-12-14-gcp.md)
  * [2020-12-01 source.foundries.io disruption](outage/2020-12-01-source-fio.md)
  * [2020-10-09 source.foundries.io disruption](outage/2020-10-09-source-fio.md)
  * [2020-10-08 app.foundries.io disruption](outage/2020-10-08-login.md)
