@@ -5,9 +5,10 @@ they are worked on. You can also get real-time updates of service outages
 on our [Slack channel](https://join.slack.com/t/foundriesio/shared_invite/enQtNTc5NDkxNTI5NTExLWQ1Yjc3NDA2MjI3NzA3YzkxYjEzNzlhZjQ0M2QxYTIzYmIzZjlmOThmZGU0NTk5MWEwZGIwMTU2YWE4N2I5NWQ).
 
 ### Upcoming Events:
- * [2021-01-13 OTA maintenance](maintenance/2021-01-13-ota)
+ &nbsp; No events
 
 ### Past Events:
+ * [2021-01-13 OTA maintenance](maintenance/2021-01-13-ota)
  * [2020-10-21 Deployments update](maintenance/2020-10-21-deployments-update)
  * [2020-09-28 Compute cluster upgrade](maintenance/2020-09-28-infra-compute-upgrade)
  * [2020-09-22 Compute cluster upgrade](maintenance/2020-09-22-infra-compute-upgrade)
