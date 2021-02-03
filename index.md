@@ -5,7 +5,7 @@ they are worked on. You can also get real-time updates of service outages
 on our [Slack channel](https://join.slack.com/t/foundriesio/shared_invite/enQtNTc5NDkxNTI5NTExLWQ1Yjc3NDA2MjI3NzA3YzkxYjEzNzlhZjQ0M2QxYTIzYmIzZjlmOThmZGU0NTk5MWEwZGIwMTU2YWE4N2I5NWQ).
 
 ### Upcoming Events:
- &nbsp; No events
+ &nbsp; [source.foundries.io maintenance](maintenance/2021-02-07-source-fio)
 
 ### Past Events:
  * [2021-01-13 OTA maintenance](maintenance/2021-01-13-ota)
