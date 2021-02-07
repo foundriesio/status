@@ -1,5 +1,7 @@
 ## source.foundries.io maintenance
 
+### update @14:50 UTC: maintenance is extended for 2 hours
+
 On Sun, 2021-02-07 between 13:00 and 15:00 UTC Foundries.io team will be performing scheduled maintenance on the main source-code service [source.foundries.io](https://source.foundries.io).
 
 During the maintenance, service might be unavailable up to 2 hours for any opeations: read and write (pull and push).
