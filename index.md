@@ -17,7 +17,7 @@ on our [Slack channel](https://join.slack.com/t/foundriesio/shared_invite/enQtNT
  * [2020-02-12 CI worker network maintenance](maintenance/2020-02-13-online-net)
 
 ### Previous Outages:
- * [2021-02-08 factory creation issue](outage/2020-02-08-factory)
+ * [2021-02-08 factory creation issue](outage/2021-02-08-factory)
  * [2020-12-14 foundries.io disruption](outage/2020-12-14-gcp.md)
  * [2020-12-01 source.foundries.io disruption](outage/2020-12-01-source-fio.md)
  * [2020-10-09 source.foundries.io disruption](outage/2020-10-09-source-fio.md)
