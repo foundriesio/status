@@ -6,7 +6,7 @@ on our [Slack channel](https://join.slack.com/t/foundriesio/shared_invite/enQtNT
 
 
 ### Planned/Ongoing Events:
- &nbsp; Issues have been detected that are impacting CI and Device Updates.
+ &nbsp; No events
 
 ### Past Events:
  * [2021-02-07 source.foundries.io maintenance](maintenance/2021-02-07-source-fio)
@@ -17,6 +17,7 @@ on our [Slack channel](https://join.slack.com/t/foundriesio/shared_invite/enQtNT
  * [2020-02-12 CI worker network maintenance](maintenance/2020-02-13-online-net)
 
 ### Previous Outages:
+ * [2021-02-07 CI and Device Manager disruption](maintenance/2021-02-07-source-fio)
  * [2021-02-08 factory creation issue](outage/2021-02-08-factory)
  * [2020-12-14 foundries.io disruption](outage/2020-12-14-gcp.md)
  * [2020-12-01 source.foundries.io disruption](outage/2020-12-01-source-fio.md)
