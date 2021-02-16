@@ -6,7 +6,7 @@ on our [Slack channel](https://join.slack.com/t/foundriesio/shared_invite/enQtNT
 
 
 ### Planned/Ongoing Events:
- &nbsp; No events
+ &nbsp; Issues have been detected that are impacting CI and Device Updates.
 
 ### Past Events:
  * [2021-02-07 source.foundries.io maintenance](maintenance/2021-02-07-source-fio)
