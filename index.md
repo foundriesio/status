@@ -6,7 +6,7 @@ on our [Slack channel](https://join.slack.com/t/foundriesio/shared_invite/enQtNT
 
 
 ### Planned/Ongoing Events:
- &nbsp; No events
+ * [2021-03-16 Compute cluster upgrade](maintenance/2021-03-16-infra-compute-upgrade)
 
 ### Past Events:
  * [2021-02-07 source.foundries.io maintenance](maintenance/2021-02-07-source-fio)
