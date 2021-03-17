@@ -1,11 +1,8 @@
-## Networking issues
+## All Systems Operational
 
 This page tracks the system status of Foundries.io and logs of incidents as
 they are worked on. You can also get real-time updates of service outages
 on our [Slack channel](https://join.slack.com/t/foundriesio/shared_invite/enQtNTc5NDkxNTI5NTExLWQ1Yjc3NDA2MjI3NzA3YzkxYjEzNzlhZjQ0M2QxYTIzYmIzZjlmOThmZGU0NTk5MWEwZGIwMTU2YWE4N2I5NWQ).
-
-### Issues:
- * [2021-03-17 Networking issues on cloud-provider side](https://status.cloud.google.com/incident/cloud-networking/21006)
 
 ### Planned/Ongoing Events:
  &nbsp; No events
@@ -20,6 +17,7 @@ on our [Slack channel](https://join.slack.com/t/foundriesio/shared_invite/enQtNT
  * [2020-02-12 CI worker network maintenance](maintenance/2020-02-13-online-net)
 
 ### Previous Outages:
+ * [2021-03-17 Networking issues on cloud-provider side](https://status.cloud.google.com/incident/cloud-networking/21006)
  * [2021-02-16 CI and Device Manager disruption](outage/2021-02-16-ci-and-device-manager.md)
  * [2021-02-08 factory creation issue](outage/2021-02-08-factory)
  * [2020-12-14 foundries.io disruption](outage/2020-12-14-gcp.md)
