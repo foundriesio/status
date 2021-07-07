@@ -5,7 +5,7 @@ they are worked on. You can also get real-time updates of service outages
 on our [Slack channel](https://join.slack.com/t/foundriesio/shared_invite/enQtNTc5NDkxNTI5NTExLWQ1Yjc3NDA2MjI3NzA3YzkxYjEzNzlhZjQ0M2QxYTIzYmIzZjlmOThmZGU0NTk5MWEwZGIwMTU2YWE4N2I5NWQ).
 
 ### Planned/Ongoing Events:
- * [2021-07-07 hub.foundries.io upgrade](maintenance/2021-07-07-hub-upgrade.md)
+ no events
 
 
 ### Past Events:
@@ -18,6 +18,7 @@ on our [Slack channel](https://join.slack.com/t/foundriesio/shared_invite/enQtNT
  * [2020-09-22 Compute cluster upgrade](maintenance/2020-09-22-infra-compute-upgrade)
  * [2020-02-12 CI worker network maintenance](maintenance/2020-02-13-online-net)
  * [2021-05-19 Compute cluster upgrade](maintenance/2021-05-19-infra-compute-upgrade)
+ * [2021-07-07 hub.foundries.io upgrade](maintenance/2021-07-07-hub-upgrade.md)
 
 ### Previous Outages:
  * [2021-03-17 Networking issues on cloud-provider side](https://status.cloud.google.com/incident/cloud-networking/21006)
