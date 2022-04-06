@@ -5,8 +5,7 @@ they are worked on. You can also get real-time updates of service outages
 on our [Slack channel](https://join.slack.com/t/foundriesio/shared_invite/enQtNTc5NDkxNTI5NTExLWQ1Yjc3NDA2MjI3NzA3YzkxYjEzNzlhZjQ0M2QxYTIzYmIzZjlmOThmZGU0NTk5MWEwZGIwMTU2YWE4N2I5NWQ).
 
 ### Planned/Ongoing Events:
- * 2022-04-06 - We are experience network connectivity issues between AWS and
-   GCP. It is causing intermittent issues with CI jobs.
+ * ONGOING [2022-04-06 CI failures in AWS](outage/2022-04-06-aws.md)
 
 ### Past Events:
  * [2021-10-06 Compute cluster upgrade](maintenance/2021-10-06-infra-compute-upgrade)
