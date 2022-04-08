@@ -5,9 +5,10 @@ they are worked on. You can also get real-time updates of service outages
 on our [Slack channel](https://join.slack.com/t/foundriesio/shared_invite/enQtNTc5NDkxNTI5NTExLWQ1Yjc3NDA2MjI3NzA3YzkxYjEzNzlhZjQ0M2QxYTIzYmIzZjlmOThmZGU0NTk5MWEwZGIwMTU2YWE4N2I5NWQ).
 
 ### Planned/Ongoing Events:
- * ONGOING [2022-04-06 CI failures in AWS](outage/2022-04-06-aws.md)
+no events
 
 ### Past Events:
+ * [2022-04-06 CI failures in AWS](outage/2022-04-06-aws.md)
  * [2021-10-06 Compute cluster upgrade](maintenance/2021-10-06-infra-compute-upgrade)
  * [2021-07-07 hub.foundries.io upgrade](maintenance/2021-07-07-hub-upgrade.md)
  * [2021-05-19 Compute cluster upgrade](maintenance/2021-05-19-infra-compute-upgrade)
