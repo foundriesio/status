@@ -5,11 +5,11 @@ they are worked on. You can also get real-time updates of service outages
 on our [Slack channel](https://join.slack.com/t/foundriesio/shared_invite/enQtNTc5NDkxNTI5NTExLWQ1Yjc3NDA2MjI3NzA3YzkxYjEzNzlhZjQ0M2QxYTIzYmIzZjlmOThmZGU0NTk5MWEwZGIwMTU2YWE4N2I5NWQ).
 
 ### Planned/Ongoing Events:
- * [2022-06-16 hub.foundries.io upgrade](maintenance/2022-06-16-hub-upgrade.md)
+  no events
 
 ### Past Events:
+ * [2022-06-16 hub.foundries.io upgrade](maintenance/2022-06-16-hub-upgrade.md)
  * [2022-04-14 Compute cluster upgrade](maintenance/2022-04-14-infra-compute-upgrade)
- * [2022-04-06 CI failures in AWS](outage/2022-04-06-aws.md)
  * [2021-10-06 Compute cluster upgrade](maintenance/2021-10-06-infra-compute-upgrade)
  * [2021-07-07 hub.foundries.io upgrade](maintenance/2021-07-07-hub-upgrade.md)
  * [2021-05-19 Compute cluster upgrade](maintenance/2021-05-19-infra-compute-upgrade)
@@ -23,6 +23,7 @@ on our [Slack channel](https://join.slack.com/t/foundriesio/shared_invite/enQtNT
  * [2020-02-12 CI worker network maintenance](maintenance/2020-02-13-online-net)
 
 ### Previous Outages:
+ * [2022-04-06 CI failures in AWS](outage/2022-04-06-aws.md)
  * [2021-03-17 Networking issues on cloud-provider side](https://status.cloud.google.com/incident/cloud-networking/21006)
  * [2021-02-16 CI and Device Manager disruption](outage/2021-02-16-ci-and-device-manager.md)
  * [2021-02-08 factory creation issue](outage/2021-02-08-factory)
