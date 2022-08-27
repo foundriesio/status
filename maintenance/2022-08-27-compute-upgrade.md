@@ -1,6 +1,6 @@
 ## Compute cluster upgrade
 
-On Sat, 2022-08-28, compute cluster will be upgraded.
+On Sat, 2022-08-27, compute cluster will be upgraded.
 
 Our infrastructure team will upgrade control-plane components and some [foundries.io](https://foundries.io) services.
 During the maintenance, OTA and CI systems might have service interruption (expected downtime - less than 5 minutes). Docker registry [hub.foundries.io](https://hub.foundries.io) might be unavailable up to 10 minutes.
