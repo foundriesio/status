@@ -8,7 +8,7 @@ on our [Slack channel](https://join.slack.com/t/foundriesio/shared_invite/enQtNT
  * [2023-01-13 hub.foundries.io experiencing degraded service. OTA update of Docker applications currently not available](2023-01-13-hub-fio.md)
 
 ### Past Events:
- * [2022-08-27 Compute cluster upgrade](maintenance/2022-08-27-compute-upgrade)
+ * [2022-08-27 Compute cluster upgrade](outage/2022-08-27-compute-upgrade)
  * [2022-06-16 hub.foundries.io upgrade](maintenance/2022-06-16-hub-upgrade.md)
  * [2022-04-14 Compute cluster upgrade](maintenance/2022-04-14-infra-compute-upgrade)
  * [2021-10-06 Compute cluster upgrade](maintenance/2021-10-06-infra-compute-upgrade)
