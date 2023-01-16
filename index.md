@@ -1,11 +1,8 @@
-## hub.foundries.io experiencing degraded service.
-
 This page tracks the system status of Foundries.io and logs of incidents as
 they are worked on. You can also get real-time updates of service outages
 on our [Slack channel](https://join.slack.com/t/foundriesio/shared_invite/enQtNTc5NDkxNTI5NTExLWQ1Yjc3NDA2MjI3NzA3YzkxYjEzNzlhZjQ0M2QxYTIzYmIzZjlmOThmZGU0NTk5MWEwZGIwMTU2YWE4N2I5NWQ).
 
 ### Planned/Ongoing Events:
- * [2023-01-13 hub.foundries.io experiencing degraded service. OTA update of Docker applications currently not available](outage/2023-01-13-hub-fio.md)
 
 ### Past Events:
  * [2022-08-27 Compute cluster upgrade](maintenance/2022-08-27-compute-upgrade)
@@ -24,6 +21,7 @@ on our [Slack channel](https://join.slack.com/t/foundriesio/shared_invite/enQtNT
  * [2020-02-12 CI worker network maintenance](maintenance/2020-02-13-online-net)
 
 ### Previous Outages:
+ * [2023-01-13 hub.foundries.io experiencing degraded service. OTA update of Docker applications currently not available](outage/2023-01-13-hub-fio.md)
  * [2022-07-28 CI failures in AWS](outage/2022-07-28-aws.md)
  * [2022-04-06 CI failures in AWS](outage/2022-04-06-aws.md)
  * [2021-03-17 Networking issues on cloud-provider side](https://status.cloud.google.com/incident/cloud-networking/21006)
