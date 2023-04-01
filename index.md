@@ -3,9 +3,9 @@ they are worked on. You can also get real-time updates of service outages
 on our [Slack channel](https://join.slack.com/t/foundriesio/shared_invite/enQtNTc5NDkxNTI5NTExLWQ1Yjc3NDA2MjI3NzA3YzkxYjEzNzlhZjQ0M2QxYTIzYmIzZjlmOThmZGU0NTk5MWEwZGIwMTU2YWE4N2I5NWQ).
 
 ### Planned/Ongoing Events:
- * [2023-04-01 Compute cluster upgrade](maintenance/2023-04-01-compute-upgrade)
 
 ### Past Events:
+ * [2023-04-01 Compute cluster upgrade](maintenance/2023-04-01-compute-upgrade)
  * [2022-08-27 Compute cluster upgrade](maintenance/2022-08-27-compute-upgrade)
  * [2022-06-16 hub.foundries.io upgrade](maintenance/2022-06-16-hub-upgrade.md)
  * [2022-04-14 Compute cluster upgrade](maintenance/2022-04-14-infra-compute-upgrade)
