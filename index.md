@@ -3,7 +3,6 @@ they are worked on. You can also get real-time updates of service outages
 on our [Slack channel](https://join.slack.com/t/foundriesio/shared_invite/enQtNTc5NDkxNTI5NTExLWQ1Yjc3NDA2MjI3NzA3YzkxYjEzNzlhZjQ0M2QxYTIzYmIzZjlmOThmZGU0NTk5MWEwZGIwMTU2YWE4N2I5NWQ).
 
 ### Planned/Ongoing Events:
-* [2023-07-26 Foundries.io resources outage](outage/2023-07-26-dashboard.md)
   
 ### Past Events:
  * [2023-04-22 API maintenance](maintenance/2023-04-22-api.md)
@@ -24,6 +23,7 @@ on our [Slack channel](https://join.slack.com/t/foundriesio/shared_invite/enQtNT
  * [2020-02-12 CI worker network maintenance](maintenance/2020-02-13-online-net)
 
 ### Previous Outages:
+ * [2023-07-26 Foundries.io resources outage](outage/2023-07-26-dashboard.md)
  * [2023-01-13 hub.foundries.io experiencing degraded service. OTA update of Docker applications currently not available](outage/2023-01-13-hub-fio.md)
  * [2022-07-28 CI failures in AWS](outage/2022-07-28-aws.md)
  * [2022-04-06 CI failures in AWS](outage/2022-04-06-aws.md)
