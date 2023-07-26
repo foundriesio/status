@@ -4,7 +4,7 @@ We are experiencing on outage on our resources:
 * app.foundries.io is not available
 * docs.foundries.io is not available
   
-Our internal user management database is not reachable and this might cause disuptions on other resources as well.
+Our internal user management database is not reachable and this might cause disruptions on other resources as well.
 
 We are investigating and monitoring the issue.
 
