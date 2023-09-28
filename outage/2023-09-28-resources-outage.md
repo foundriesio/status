@@ -11,4 +11,4 @@ We are investigating and monitoring the issue.
 ### Timeline of Events
 
 * **08.45 UTC UTC** - Our primary domain registration was associated with an expired email address, and has now been restored. DNS propagation is underway and normal service should resume shortly. Steps are being taken to prevent recurrence of this event.
-* **09:05 UTC** - We restored our domain registration, DNS updates propragation is in progress.
+* **09:05 UTC** - We restored our domain registration, DNS updates propagation is in progress.
