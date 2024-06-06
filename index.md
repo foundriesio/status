@@ -26,6 +26,7 @@ on our [Slack channel](https://join.slack.com/t/foundriesio/shared_invite/enQtNT
  * [2020-02-12 CI worker network maintenance](maintenance/2020-02-13-online-net)
 
 ### Previous Outages:
+ * [2024-06-06 Foundries.io resources outage](outage/2024-06-06-api-disruption.md)
  * [2023-09-28 Foundries.io resources outage](outage/2023-09-28-resources-outage.md)
  * [2023-07-26 Foundries.io resources outage](outage/2023-07-26-dashboard.md)
  * [2023-01-13 hub.foundries.io experiencing degraded service. OTA update of Docker applications currently not available](outage/2023-01-13-hub-fio.md)
