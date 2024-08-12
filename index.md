@@ -3,9 +3,9 @@ they are worked on. You can also get real-time updates of service outages
 on our [Slack channel](https://join.slack.com/t/foundriesio/shared_invite/enQtNTc5NDkxNTI5NTExLWQ1Yjc3NDA2MjI3NzA3YzkxYjEzNzlhZjQ0M2QxYTIzYmIzZjlmOThmZGU0NTk5MWEwZGIwMTU2YWE4N2I5NWQ).
 
 ### Planned/Ongoing Events:
- * [2024-08-02 Device Facing DNS updates](maintenance/2024-08-02-dns-change.md)
 
 ### Past Events:
+ * [2024-08-02 Device Facing DNS updates](maintenance/2024-08-02-dns-change.md)
  * [2024-01-27 source.foundries.io maintenance](maintenance/2024-01-27-source-fio.md)
  * [2023-12-30 Compute cluster upgrade](maintenance/2023-12-30-compute-upgrade.md)
  * [2023-10-29 API maintenance](maintenance/2023-10-29-api.md)
