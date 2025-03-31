@@ -2,7 +2,7 @@
 
 ### Timeline of Events
 
-* **06:48 UTC** - Monitroing system reported about the issue
+* **06:48 UTC** - Monitoring system reported about the issue
 * **06:57 UTC** - Engineering team started verification and investigation
 * **07:13 UTC** - The root of the issue identified
 * **07:27 UTC** - Service returned back
