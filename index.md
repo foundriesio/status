@@ -3,6 +3,7 @@ they are worked on. You can also get real-time updates of service outages
 on our [Slack channel](https://join.slack.com/t/foundriesio/shared_invite/enQtNTc5NDkxNTI5NTExLWQ1Yjc3NDA2MjI3NzA3YzkxYjEzNzlhZjQ0M2QxYTIzYmIzZjlmOThmZGU0NTk5MWEwZGIwMTU2YWE4N2I5NWQ).
 
 ### Planned/Ongoing Events:
+ * [2025-06-06 CI Disruption](outage/2025-06-06-ci.md)
 
 ### Past Events:
  * [2024-08-16 Git server migration](maintenance/2024-08-16-git-mv.md)
