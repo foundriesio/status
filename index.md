@@ -4,6 +4,7 @@ on our [Slack channel](https://join.slack.com/t/foundriesio/shared_invite/enQtNT
 
 ### Planned/Ongoing Events:
  * [2025-06-06 CI Disruption](outage/2025-06-06-ci.md)
+ * [2025-06-12 GCS and CloudFlare Incident](outage/2025-06-12-gcs.md)
 
 ### Past Events:
  * [2024-08-16 Git server migration](maintenance/2024-08-16-git-mv.md)
