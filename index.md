@@ -28,6 +28,7 @@ on our [Slack channel](https://join.slack.com/t/foundriesio/shared_invite/enQtNT
  * [2020-02-12 CI worker network maintenance](maintenance/2020-02-13-online-net)
 
 ### Previous Outages:
+ * [2025-07-03 source.foundries.io web ui outage](/outage/2025-07-03-source-fio.md)
  * [2025-06-06 CI Disruption](outage/2025-06-06-ci.md)
  * [2025-06-12 GCS and CloudFlare Incident](outage/2025-06-12-gcs.md)
  * [2024-10-09 api.foundries.io outage](outage/2024-10-09-ota-lite.md)
