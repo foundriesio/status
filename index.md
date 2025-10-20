@@ -4,6 +4,15 @@ on our [Slack channel](https://join.slack.com/t/foundriesio/shared_invite/enQtNT
 
 ### Planned/Ongoing Events:
 
+#### :warning: Service Status Update
+
+Our **CI services** are currently experiencing disruptions due to an ongoing **Docker service outage**.
+
+You can monitor Docker’s status here: [https://www.dockerstatus.com/](https://www.dockerstatus.com/)
+
+We are closely monitoring the situation and will provide updates as soon as service is restored.
+
+
 ### Past Events:
  * [2024-08-16 Git server migration](maintenance/2024-08-16-git-mv.md)
  * [2024-08-02 Device Facing DNS updates](maintenance/2024-08-02-dns-change.md)
