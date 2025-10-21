@@ -4,15 +4,6 @@ on our [Slack channel](https://join.slack.com/t/foundriesio/shared_invite/enQtNT
 
 ### Planned/Ongoing Events:
 
-#### :warning: Service Status Update
-
-Our **CI services** are currently experiencing disruptions due to an ongoing **Docker service outage**.
-
-You can monitor Docker’s status here: [https://www.dockerstatus.com/](https://www.dockerstatus.com/)
-
-We are closely monitoring the situation and will provide updates as soon as service is restored.
-
-
 ### Past Events:
  * [2024-08-16 Git server migration](maintenance/2024-08-16-git-mv.md)
  * [2024-08-02 Device Facing DNS updates](maintenance/2024-08-02-dns-change.md)
@@ -37,6 +28,7 @@ We are closely monitoring the situation and will provide updates as soon as serv
  * [2020-02-12 CI worker network maintenance](maintenance/2020-02-13-online-net)
 
 ### Previous Outages:
+ * [2025-10-20 CI Jobs Disruption](/outage/2025-10-20-ci-fio.md)
  * [2025-10-13 source.foundries.io outage](/outage/2025-10-13-source-fio.md)
  * [2025-08-22 API and Registry Disruption](/outage/2025-08-22.md)
  * [2025-07-03 source.foundries.io web ui outage](/outage/2025-07-03-source-fio.md)
