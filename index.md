@@ -28,6 +28,7 @@ on our [Slack channel](https://join.slack.com/t/foundriesio/shared_invite/enQtNT
  * [2020-02-12 CI worker network maintenance](maintenance/2020-02-13-online-net)
 
 ### Previous Outages:
+ * [2026-09-14 Certificate expired](/outage/2026-09-14-cert-renewal.md)
  * [2026-02-09 Dashboard unavailable](/outage/2026-02-09-dashboard.md)
  * [2025-10-20 CI Jobs Disruption](/outage/2025-10-20-ci-fio.md)
  * [2025-10-13 source.foundries.io outage](/outage/2025-10-13-source-fio.md)
